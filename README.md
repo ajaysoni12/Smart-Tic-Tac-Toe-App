@@ -16,9 +16,9 @@ This Tic Tac Toe game includes the following options:
 
 To play the Tic Tac Toe game, follow these steps:
 
-1. Download the APK file from the releases section of this repository.
+1. Download the APK file from the given link.(https://drive.google.com/file/d/1C3FZMGRpNEq_lOrOrNHtTVEmIs8UiFWf/view?usp=drive_link)
 
-2. Transfer the APK file to your Android device and install it.
+2. Transfer the APK file to your Android device and install it(It will give unSafe App Promt, but It will fully secure, just given permission of install anyway).
 
 3. Launch the Tic Tac Toe app on your Android device.
 
@@ -42,6 +42,3 @@ To play the Tic Tac Toe game, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or enhancements, please open an issue or submit a pull request.
-
-
-
