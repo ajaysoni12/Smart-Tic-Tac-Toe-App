@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#403E3E"
+    android:orientation="vertical"
+    android:padding="@dimen/_10sdp">
+
+
+    <EditText
+        android:id="@+id/edtPlayer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:background="@drawable/edittext_border"
+        android:ems="20"
+        android:hint="Player 1"
+        android:padding="@dimen/_10sdp"
+        android:textColor="#E6E0E0"
+        android:textColorHint="#CDC0C0"
+        android:textSize="@dimen/_14sdp" />
+
+    <EditText
+        android:id="@+id/edtPlayer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:background="@drawable/edittext_border"
+        android:ems="20"
+        android:hint="Player 2"
+        android:padding="@dimen/_12sdp"
+        android:textColor="#E6E0E0"
+        android:textColorHint="#CDC0C0"
+        android:textSize="@dimen/_14sdp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:gravity="end">
+
+        <TextView
+            android:id="@+id/btnCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="25dp"
+            android:text="CANCEL"
+            android:textColor="#7C7B7B"
+            android:textSize="@dimen/_12sdp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/btnStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="START"
+            android:textColor="#E12416"
+            android:textSize="@dimen/_12sdp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>
